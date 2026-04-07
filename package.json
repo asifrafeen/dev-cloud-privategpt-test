@@ -7,7 +7,7 @@
     "build-and-deploy": "bash deploy.sh",
     "dev": "vite --port 3000",
     "start": "vite --port 3000",
-    "start:host": "vite --host dqpuqb-drrix.seliseblocks.com --port 3000",
+    "start:host": "vite --host dbsagr-drrix.seliseblocks.com --port 3000",
     "build": "vite build",
     "preview": "vite preview",
     "set-env": "node set-env.cjs",
